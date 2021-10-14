@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy==1.20.2
+tqdm
+tensorboard
+
+pandas
+speechbrain~=0.5.9
+torchaudio~=0.9.1
+datasets
+torch_audiomentations
+editdistance
+
+Levenshtein
+jiwer
